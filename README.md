@@ -1,6 +1,11 @@
 # lwe-which-error
 Looking at LWE errors and when error sampling could break. Currently just me toying around in SageMath
 
+Remember to also recurse submodules while cloning:
+```bash
+git clone https://github.com/anadditivity/lwe-which-error.git --recurse-submodules
+```
+
 Reminder to myself on how to run this thing (Fedora 44):
 ```bash
 # already done
